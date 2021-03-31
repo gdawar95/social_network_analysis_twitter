@@ -5,6 +5,9 @@ Social network analysis based on twitter data employing graph analysis methods, 
 
 # Data
 Existing data on the internet - 
+
 • https://github.com/shaypal5/awesome-twitter-data
+
 • https://www.kaggle.com/data/35739
+
 Here the data taken is of one of the months of 2009
